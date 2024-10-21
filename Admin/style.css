@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+	font-family: MyFont !important
+}
+.top-bar{
+    background: #222332;
+    color: #ffffff;
+    height: 200px;
+}
+nav h2{
+    padding: 5px;
+}
+
+.navbar-brand img {
+	width: 85%;
+	margin-right: -5%;
+}
+
+.admin-panel{
+    height: auto;
+}
+.admin-panel .col-2{
+
+    padding: 15px;
+    height: 3300px;
+    background: #222332;
+    text-decoration: none;
+}
+.admin-panel .col-10{
+    display: block;
+    text-align: end;
+    margin-top: 10px;
+}
+.admin-panel .col-10 form input ,
+.admin-panel .col-10 form textarea,
+.admin-panel .col-10 form select{
+}
+.admin-panel .col-2 .list-item a{
+    display: block;
+    text-align: right;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-right: 5px;
+    color: white;
+
+}
+.table td, .table th{
+    vertical-align: middle;
+    text-align: center;
+}
+.card-header {
+	background: #222332;
+}
+.card  {
+	border-style : soiled;
+	border-color : #222332;
+}
+.btn-warning {
+	background-color : #222332;
+	color : white;
+	border-color : #222332;
+}
+.btn-danger{
+	background-color : #222332;
+	color : white;
+	border-color : #222332;
+}
+.btn-primary{
+	background-color : #222332;
+	color : white;
+	border-color : #222332;
+}
+.alert-danger {
+	color: black; 
+    background-color: #c7d9eb; 
+    border-color: #c7d9eb; 
+}
+.bg-dark {
+	background-color : #222332!important;
+    color: #ffffff;
+}	

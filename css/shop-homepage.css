@@ -1,0 +1,45 @@
+*{
+	font-family: MyFont !important
+}
+body {
+  padding-top: 56px;
+    overflow-x: hidden;
+}
+.paging-me{
+    margin-left: 50%;
+}
+.paging-me li a{
+    color: #fff;
+}
+.paging-me li {
+    margin: 5px;
+}
+.bg-dark {
+	background-color : #222332!important;
+    color: #ffffff;	
+}
+.navbar-brand img {
+	width: 85%;
+	margin-right: -5%;
+}
+.nav-item {
+	font-size: 17px;
+}
+.col-lg-2{
+    padding: 15px;
+    height: 4480px;
+	width : 100px;
+    background: #222332;
+    text-decoration: none;
+}
+	.back-img {
+    min-height: 90vh;
+    /* position: absolute; */
+    /* top: 0px; */
+    /* background-color: red; */
+    background-image: url(pics/bus.png);
+    width: 100%;
+    opacity: 0.8;
+    background-repeat: no-repeat;
+ 	background-size: 100% 100%;
+}
